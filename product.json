@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "JAV1 RAMEN NOODLE",
+    "price": 200,
+    "image": "Images/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "JAV2 RAMEN NOODLE",
+    "price": 250,
+    "image": "Images/2.png"
+  },
+  {
+    "id": 3,
+    "name": "JAV3 RAMEN NOODLE",
+    "price": 520,
+    "image": "Images/3.png"
+  },
+  {
+    "id": 4,
+    "name": "JAV4 RAMEN NOODLE",
+    "price": 590,
+    "image": "Images/4.png"
+  },
+  {
+    "id": 5,
+    "name": "JAV5 RAMEN NOODLE",
+    "price": 320,
+    "image": "Images/5.png"
+  },
+  {
+    "id": 6,
+    "name": "JAV6 RAMEN NOODLE",
+    "price": 400,
+    "image": "Images/6.png"
+  }
+]
